@@ -1,6 +1,4 @@
 <div align="center">
-    <h2>
-        <img src="https://readme-typing-svg.herokuapp.com?font=Jetbrains+mono&size=40&duration=3000&color=33FF33&center=true&vCenter=true&width=435&lines=Hello..+I'm+Dmytro;Ruby+on+Rails+Developer;Welcome+to+my+GitHub+Page.." alt="Typing SVG"/>
     </h2>
     <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExYTBidTVwYzg5aWQ2am12bDJ2cXB0bmx2NGhsMmNkdHhjaW1nOTlreCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26tn33aiTi1jkl6H6/giphy.gif" alt="Dmytro's Coding GIF"/>
 </div>
