@@ -48,5 +48,17 @@
     <img src="https://img.shields.io/badge/Computer%20Science-1572B6?style=for-the-badge" alt="Computer Science" />
 </div>
 
+<div align="center">
+    <h2>☁️ Key Technologies</h2>
+    <p>Here's a glance at the technologies I specialize in or frequently use in my projects:</p>
+    <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" />
+    <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+    <img src="https://img.shields.io/badge/Portainer-13BEBB?style=for-the-badge&logo=portainer&logoColor=white" alt="Portainer" />
+    <img src="https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=for-the-badge&logo=ruby-on-rails&logoColor=white" alt="Ruby on Rails" />
+    <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask" />
+    <img src="https://img.shields.io/badge/Klipper-FF9A00?style=for-the-badge" alt="Klipper" />
+</div>
+
+
 
 
