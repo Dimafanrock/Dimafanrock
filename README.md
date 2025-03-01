@@ -59,7 +59,7 @@
 </div>
 
 <div align="center">
- <table align="center" width="70%" height="70%" >
+ <table align="center" width="30%" height="30%" >
     <tr>
         <td><img style="border: none;" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=zanepearton&theme=github_dark" alt="Zane's GitHub Stats"/></td>
         <td><img style="border: none;" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=zanepearton&theme=github_dark&utcOffset=10" alt="Zane's GitHub Stats"/>
