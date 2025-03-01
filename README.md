@@ -48,6 +48,17 @@
     <img src="https://img.shields.io/badge/Klipper-FF9A00?style=for-the-badge" alt="Klipper" />
 </div>
 
+<div align="center">
+    <h2 align="center" class="section-heading">👾 3D Modeling + VR + AR</h2>
+    <p>In the immersive domains of 3D Modeling, Virtual Reality (VR), and Augmented Reality (AR), I apply my expertise to bring digital creations to life. Leveraging industry-leading tools, I sculpt, render, and animate with precision, while pioneering VR and AR experiences that bridge the gap between virtuality and reality.</p>
+    <img src="https://img.shields.io/badge/Fusion_360-007ACC?style=for-the-badge&logo=autodesk&logoColor=white" alt="Fusion 360"/>
+    <img src="https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white" alt="Blender"/>
+    <img src="https://img.shields.io/badge/DaVinci_Resolve-FFFFFF?style=for-the-badge&logo=blackmagic-design&logoColor=black" alt="DaVinci Resolve"/>
+    <img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white" alt="Unity"/>
+    <img src="https://img.shields.io/badge/Meshmixer-007ACC?style=for-the-badge&logo=simplybuilt&logoColor=white" alt="Meshmixer"/>
+</div>
+
+
 
 
 
