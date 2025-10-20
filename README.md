@@ -101,16 +101,18 @@ Guiding principles: <b>clarity of purpose</b>, <b>structural integrity</b>, and 
 
 <div align="center"><h2>🧩 Systems & Projects Snapshot</h2></div>
 
-<div align="center"><h2>🧩 Systems & Projects Snapshot</h2></div>
-
 <ul align="left">
-  <li><strong>TerraCore</strong> — Dockerized IoT automation core for sensors/relays with MQTT + InfluxDB, Prometheus metrics, and HDMI health hooks.</li>
-  <li><strong>GrowControl</strong> — offline-first controller (local-first ops, resilient when the internet is unavailable) with subscription support.</li>
-  <li><strong>BusinessOps SaaS</strong> — abstracted multi-tenant platform (Rails 7/8, Sidekiq, Redis, per-tenant DBs, JWT/HMAC, HubSpot integration).</li>
+  <li><strong>TerraCore</strong> — Dockerized IoT automation core for sensors/relays (MQTT + InfluxDB, Prometheus, HDMI health hooks).</li>
+  <li><strong>GrowControl</strong> — offline-first controller; resilient local ops when internet is unavailable; subscription support.</li>
+  <li><strong>BusinessOps SaaS</strong> — abstracted multi-tenant platform (Rails 7/8, Sidekiq, Redis, per-tenant DBs, JWT/HMAC, HubSpot).</li>
   <li><strong>HDMI Health Display</strong> — on-device status/diagnostics pipeline for quick visual checks.</li>
   <li><strong>Control Server Core</strong> — modular Python orchestrator (async loops, periodic snapshots, queue-based persistence).</li>
   <li><strong>Watchdog Exporter</strong> — custom Prometheus exporter for process state and uptime.</li>
+  <li><strong>ImageConvert API</strong> — Flask REST microservice for image conversion; containerized for internal tooling.</li>
+  <li><strong>Fact API</strong> — lightweight JSON API for structured facts/metadata used by internal services.</li>
+  <li><strong>BIR (Rails) Platform</strong> — business solutions web platform (analytics, operations, integrations).</li>
 </ul>
+
 <br/>
 
 <div align="center"><h2>🎨 3D Modeling, Design & VR/AR</h2></div>
