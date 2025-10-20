@@ -80,22 +80,23 @@
 
 ### 🧩 Architecture Overview
 
+
 ```mermaid
 flowchart TD
-    subgraph AIoT_Edge ["🛰️ AIoT Edge System"]
+    subgraph AIoT_Edge ["AIoT Edge System"]
         A[Edge Devices: Sensors, Relays, RS-485 Bus]
-        B[MQTT Broker (Mosquitto)]
-        C[Control Server (Python)]
-        D[InfluxDB v2 Time-Series DB]
+        B[MQTT Broker]
+        C[Python Control Server]
+        D[InfluxDB v2 Time-Series]
         E[Prometheus Exporter + Grafana]
         A --> B --> C --> D
-        C --> E --> F[HDMI Health Dashboard]
+        C --> E --> F[HDMI Dashboard]
     end
 
-    subgraph Web_API_Layer ["🌐 Web Application Interface"]
+    subgraph Web_API_Layer ["Web Application Interface"]
         G[API Gateway / Auth Service]
-        H[Multi-tenant Backend (Rails)]
-        I[PostgreSQL + Redis]
+        H[Multi-tenant Backend]
+        I[PostgreSQL and Redis]
         H --> I
         G --> H
     end
@@ -103,6 +104,7 @@ flowchart TD
     E --> G
     C --> G
 ```
+
 
 
 <div align="center">
