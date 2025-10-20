@@ -4,8 +4,6 @@
   <p><em>Designing intelligent, reliable systems where hardware, data, and software operate as one.</em></p>
 </div>
 
-<br/>
-
 <div align="center">
   <h2>🚀 Professional Overview</h2>
   <p><strong>I build end-to-end, data-driven systems — from intelligent edge devices to scalable cloud backends.</strong></p>
@@ -103,15 +101,16 @@ Guiding principles: <b>clarity of purpose</b>, <b>structural integrity</b>, and 
 
 <div align="center"><h2>🧩 Systems & Projects Snapshot</h2></div>
 
-<ul align="left">
-  <li><strong>SmartHydro Control Server</strong> — Dockerized automation core orchestrating sensors, relays, and data persistence via MQTT + InfluxDB; designed for predictive irrigation and autonomous recovery (Prometheus metrics, HDMI health display).</li>
-  <li><strong>Magic Box / SmartHydro</strong> — offline-first hardware + local server product with subscription-based support; resilient control when internet is unavailable.</li>
-  <li><strong>OutSail / Club.Core</strong> — multi-tenant SaaS ecosystem (Rails 7/8, Sidekiq, Redis, per-tenant DBs, JWT/HMAC auth, HubSpot CRM integration).</li>
-  <li><strong>watchdog exporter</strong> — custom Prometheus exporter (process states, uptime, supervised runtime) for edge reliability.</li>
-  <li><strong>HDMI health display</strong> — local visual status pipeline for on-device monitoring and quick diagnostics.</li>
-  <li><strong>Control Server Core</strong> — modular Python orchestrator for IoT edge services with async loops, periodic sensor snapshots, and queue-based persistence.</li>
-</ul>
+<div align="center"><h2>🧩 Systems & Projects Snapshot</h2></div>
 
+<ul align="left">
+  <li><strong>TerraCore</strong> — Dockerized IoT automation core for sensors/relays with MQTT + InfluxDB, Prometheus metrics, and HDMI health hooks.</li>
+  <li><strong>GrowControl</strong> — offline-first controller (local-first ops, resilient when the internet is unavailable) with subscription support.</li>
+  <li><strong>BusinessOps SaaS</strong> — abstracted multi-tenant platform (Rails 7/8, Sidekiq, Redis, per-tenant DBs, JWT/HMAC, HubSpot integration).</li>
+  <li><strong>HDMI Health Display</strong> — on-device status/diagnostics pipeline for quick visual checks.</li>
+  <li><strong>Control Server Core</strong> — modular Python orchestrator (async loops, periodic snapshots, queue-based persistence).</li>
+  <li><strong>Watchdog Exporter</strong> — custom Prometheus exporter for process state and uptime.</li>
+</ul>
 <br/>
 
 <div align="center"><h2>🎨 3D Modeling, Design & VR/AR</h2></div>
