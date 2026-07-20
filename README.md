@@ -15,18 +15,6 @@
 
 <br/>
 
-<div align="center"><h2>⚙️ Core Strengths</h2></div>
-
-<ul align="left">
-  <li><strong>Systems Thinking</strong> — turns complex interactions into predictable, maintainable flows.</li>
-  <li><strong>Architectural Precision</strong> — clear contracts between components, boundaries, and layers.</li>
-  <li><strong>Automation & Reliability</strong> — feedback loops, health checks, graceful recovery baked in.</li>
-  <li><strong>Data & Observability</strong> — metrics, persistence, and analytics from edge to cloud.</li>
-  <li><strong>Ownership & Focus</strong> — disciplined delivery, iterative improvement, and operational clarity.</li>
-</ul>
-
-<br/>
-
 <div align="center"><h2>🧠 Engineering Philosophy</h2></div>
 
 <p align="left">
@@ -96,22 +84,6 @@ Guiding principles: <b>clarity of purpose</b>, <b>structural integrity</b>, and 
   <img src="https://img.shields.io/badge/CI%2FCD-2A2A2A?style=for-the-badge&logo=githubactions&logoColor=white" />
   <img src="https://img.shields.io/badge/PyCharm%20Remote-000000?style=for-the-badge&logo=pycharm&logoColor=white" />
 </div>
-
-<br/>
-
-<div align="center"><h2>🧩 Systems & Projects Snapshot</h2></div>
-
-<ul align="left">
-  <li><strong>TerraCore</strong> — Dockerized IoT automation core for sensors/relays (MQTT + InfluxDB, Prometheus, HDMI health hooks).</li>
-  <li><strong>GrowControl</strong> — offline-first controller; resilient local ops when internet is unavailable; subscription support.</li>
-  <li><strong>BusinessOps SaaS</strong> — abstracted multi-tenant platform (Rails 7/8, Sidekiq, Redis, per-tenant DBs, JWT/HMAC, HubSpot).</li>
-  <li><strong>HDMI Health Display</strong> — on-device status/diagnostics pipeline for quick visual checks.</li>
-  <li><strong>Control Server Core</strong> — modular Python orchestrator (async loops, periodic snapshots, queue-based persistence).</li>
-  <li><strong>Watchdog Exporter</strong> — custom Prometheus exporter for process state and uptime.</li>
-  <li><strong>ImageConvert API</strong> — Flask REST microservice for image conversion; containerized for internal tooling.</li>
-  <li><strong>Fact API</strong> — lightweight JSON API for structured facts/metadata used by internal services.</li>
-  <li><strong>BIR (Rails) Platform</strong> — business solutions web platform (analytics, operations, integrations).</li>
-</ul>
 
 <br/>
 
