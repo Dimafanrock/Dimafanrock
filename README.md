@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Dmytro Voznyi</h1>
-  <h3>System Architect & Backend Engineer (Edge-AI / IoT / Cloud Systems)</h3>
+  <h3>System Architect of Systems | Embedded • Backend Engineer</h3>
   <p><em>Designing intelligent, reliable systems where hardware, data, and software operate as one.</em></p>
 </div>
 
