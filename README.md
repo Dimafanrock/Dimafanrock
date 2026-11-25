@@ -15,7 +15,8 @@ I build dedicated systems that run themselves: embedded devices that decide on-s
 | 01 | **Autonomous greenhouse** | An embedded controller reads sensors, drives relays and makes decisions on-site. Keeps working with no cloud and no connection. |
 | 02 | **Lab equipment monitoring** | Embedded monitoring and control for university lab equipment. Spots problems before they stop the work. |
 | 03 | **AI pipelines in production** | Took repetitive manual data work off the team and made the result checkable. |
-| 04 | **AI-run delivery process** | My own project management run by AI coding agents: tasks, execution, review and reports across all projects. |
+| 04 | **Client brand sites** | From a design to a live site on its own server, with every change shipped automatically. [drylabfood.es](https://drylabfood.es) · [Maximus Group](https://maximusgroup.nexo-soft.com) |
+| 05 | **AI-run delivery process** | My own project management run by AI coding agents: tasks, execution, review and reports across all projects. |
 
 Most of this code is private or under NDA. Ask me about the architecture.
 
